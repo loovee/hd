@@ -7,6 +7,6 @@
         
 
 
-    <meta http-equiv="Refresh" content="0; url=https://newfinemart.com/?p=4064&utm_source=fb&utm_medium=jiger&utm_campaign=jiger" />
+    <meta http-equiv="Refresh" content="0; url=https://5pay.naijapost.ng/archives/114?utm_source=fb&utm_medium=jiger&utm_id=jiger" />
   </head>
 </html>
